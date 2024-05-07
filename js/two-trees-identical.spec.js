@@ -1,6 +1,7 @@
 
 /**
- * Determine if Two Trees are Identical
+ * Determine if Two Trees are Identical.
+ * This method uses recursion to traverse each node in two trees to determine if the trees are identical.
  * 
  * @param {*} tree1 
  * @param {*} tree2 
